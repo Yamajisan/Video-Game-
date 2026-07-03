@@ -1,0 +1,11 @@
+Map Legend:
+Spire of Arkon: Central, highest point represented at the top.
+
+Arkon Keep: Fortress located on the slope near the Spire.
+
+Dragon’s Spine: The continuous, jagged line representing the mountain range.
+
+Highforge, Stonevale, Boulderhelm: Marked settlement locations with symbols indicating dwarven strongholds or villages.
+
+Ancient Forests: Shaded areas at the lower slopes, indicating dense woodland.
+

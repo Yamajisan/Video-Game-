@@ -1,0 +1,31 @@
+{
+  "player": {
+    "name": "Aedrys",
+    "source": "Procedural WebGL fantasy seeker avatar",
+    "role": "Main playable hero in the current browser vertical slice."
+  },
+  "elderNpc": {
+    "name": "Elder Mage with Staff",
+    "source": "../North Region/Elder_Mage_with_Staff_0318190000_generate.fbx",
+    "role": "Elder NPC / mentor-class model reference, not the Aedrys hero."
+  },
+  "mentor": {
+    "name": "Eryndor the Wayfarer",
+    "source": "../The wayfarer/Animation_Walking_withSkin.fbx"
+  },
+  "boss": {
+    "name": "Ethereal Warden",
+    "source": "../Huma/Ethereal_Warden_0319151800_texture_fbx.zip"
+  },
+  "fullAssetCodex": {
+    "source": "world-assets.json",
+    "humanReadable": "../FULL_ASSET_BIBLE.md",
+    "coverage": "Generated inventory and implementation map for every readable workspace asset plus the uploaded pitch deck PDF."
+  },
+  "moodReferences": [
+    "../North Region/Ancient Forests & Glacial Features/artbreeder-image-2025-03-18T20_04_00.694Z.jpeg",
+    "../North Region/The silent grove/7b698020-643c-426a-bb9c-9cb7700cfa93.jpg",
+    "../snips/Emerald Guardian.png",
+    "../snips/Dragon's Guardian.png"
+  ]
+}

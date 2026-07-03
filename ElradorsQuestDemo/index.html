@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Eldor's Chronicles - Echoes of Eldrador Demo</title>
+  <link rel="stylesheet" href="src/styles.css">
+</head>
+<body>
+  <main id="gameShell">
+    <canvas id="gameCanvas" width="1280" height="720" aria-label="Echoes of Eldrador playable demo"></canvas>
+
+    <section id="mainMenu" class="screen active">
+      <div class="menu-panel">
+        <p class="eyebrow">3D Action RPG Vertical Slice</p>
+        <h1>Echoes of Eldrador</h1>
+        <p class="subtitle">Guide Aedrys from Willowhaven into Dragon's Spine, Arkon Keep, and the Emerald Dominion to awaken the Echo of Elyria.</p>
+        <button id="startButton" class="primary-button">Start Demo</button>
+        <div class="control-grid" aria-label="Controls">
+          <span>Move</span><strong>WASD / Arrows</strong>
+          <span>Camera</span><strong>Click scene, move mouse</strong>
+          <span>Sprint</span><strong>Shift</strong>
+          <span>Jump</span><strong>Space</strong>
+          <span>Climb</span><strong>Hold C near marked rock</strong>
+          <span>Dash</span><strong>Ctrl</strong>
+          <span>Windwalk</span><strong>Q / hold G while airborne</strong>
+          <span>Staff</span><strong>Left Click / R</strong>
+          <span>Arcane</span><strong>Right Click / T</strong>
+          <span>Frost Ward</span><strong>F</strong>
+          <span>Whisperwind</span><strong>V</strong>
+          <span>Interact</span><strong>E</strong>
+          <span>Journal</span><strong>J</strong>
+        </div>
+      </div>
+    </section>
+
+    <section id="pauseMenu" class="screen">
+      <div class="menu-panel compact">
+        <h2>Paused</h2>
+        <button id="resumeButton" class="primary-button">Resume</button>
+        <button id="restartButton" class="secondary-button">Restart Demo</button>
+      </div>
+    </section>
+
+    <section id="victoryScreen" class="screen">
+      <div class="menu-panel">
+        <p class="eyebrow">Victory</p>
+        <h2>The Echo answers.</h2>
+        <p class="subtitle">Aedrys claims the Echo of Elyria as the crystal grove opens to a vision of wings, stars, and fire beyond the southern horizon.</p>
+        <button id="victoryRestartButton" class="primary-button">Play Again</button>
+        <p class="to-be-continued">To Be Continued: The Star-Dragon Prophecy Awakens.</p>
+      </div>
+    </section>
+
+    <div id="hud" class="hud hidden" aria-live="polite">
+      <div class="bars">
+        <label>Health <span id="healthValue">100</span></label>
+        <div class="bar"><span id="healthBar"></span></div>
+        <label>Stamina <span id="staminaValue">100</span></label>
+        <div class="bar stamina"><span id="staminaBar"></span></div>
+        <label>Mana <span id="manaValue">100</span></label>
+        <div class="bar mana"><span id="manaBar"></span></div>
+      </div>
+      <div id="questTracker" class="quest-tracker">Find the relic fragments.</div>
+      <div id="abilityIcons" class="ability-icons"></div>
+      <div id="bossFrame" class="boss-frame hidden">
+        <span>Ethereal Warden</span>
+        <div class="bar boss"><span id="bossBar"></span></div>
+      </div>
+      <div id="interactionPrompt" class="interaction-prompt hidden">Press E</div>
+      <div id="assetStatus" class="asset-status">Model refs: checking...</div>
+      <div id="dialogueBox" class="dialogue-box hidden">
+        <strong id="dialogueName">Eryndor</strong>
+        <p id="dialogueText"></p>
+        <small>Press Enter to continue</small>
+      </div>
+      <div id="journalPanel" class="journal-panel hidden">
+        <h3>Quest Journal</h3>
+        <p id="journalText"></p>
+      </div>
+      <div id="toastLog" class="toast-log"></div>
+    </div>
+  </main>
+
+  <script src="src/game.js"></script>
+</body>
+</html>

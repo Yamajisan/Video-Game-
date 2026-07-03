@@ -1,0 +1,2720 @@
+{
+  "generatedBy": "Codex full asset ingestion pass",
+  "root": "C:\\Users\\waelk\\OneDrive\\Desktop\\video game",
+  "summary": {
+    "totalAssets": 112,
+    "byType": {
+      "document": 16,
+      "video": 2,
+      "model_archive": 13,
+      "image": 67,
+      "model": 7,
+      "data": 2,
+      "other": 4,
+      "blend_model": 1
+    },
+    "byTag": {
+      "general": 24,
+      "story": 4,
+      "elder_sands": 8,
+      "guardian": 25,
+      "enemy": 11,
+      "map": 4,
+      "dragon_spine": 59,
+      "arkon_keep": 40,
+      "dwarven": 11,
+      "emerald_dominion": 1,
+      "wayfarer": 7
+    },
+    "importantTerms": {
+      "Dragon": 11,
+      "Spire": 10,
+      "Eryndor": 9,
+      "Dwarven": 8,
+      "Eldrador": 7,
+      "Ethereal": 7,
+      "Sands": 7,
+      "Arkon": 7,
+      "Wayfarer": 6,
+      "Highforge": 6,
+      "Elyria": 6,
+      "Emerald": 6,
+      "Mystic": 6,
+      "Echo of Elyria": 5,
+      "Frost Ward": 5,
+      "Whisperwind": 5,
+      "Windwalk": 5,
+      "Guardian": 5,
+      "Moon": 4,
+      "Boulderhelm": 4,
+      "Stonevale": 4,
+      "Huma": 4,
+      "Althaeon": 4,
+      "Aurora Shard": 4,
+      "Cinderheart": 4,
+      "Eidryss": 4,
+      "Heartwood": 4,
+      "Lythariel": 4,
+      "Willowhaven": 4,
+      "Eldor": 3,
+      "Warden": 3,
+      "Golden Plains": 3,
+      "Aedrys": 2,
+      "El'goroth": 2,
+      "Stoic": 2,
+      "Valor": 2,
+      "Oracle": 1,
+      "Antagonistic": 1,
+      "Dragon's Teeth": 1,
+      "Kragnir": 1,
+      "Outcast": 1,
+      "Reluctant": 1
+    }
+  },
+  "pdf": {
+    "path": "C:\\Users\\waelk\\Downloads\\Eldor's Chronicles (1).pdf",
+    "available": true,
+    "pages": 183,
+    "terms": [
+      "Althaeon",
+      "Antagonistic",
+      "Arkon",
+      "Aurora Shard",
+      "Boulderhelm",
+      "Cinderheart",
+      "Dragon",
+      "Dragon's Teeth",
+      "Dwarven",
+      "Echo of Elyria",
+      "Eidryss",
+      "El'goroth",
+      "Eldor",
+      "Eldrador",
+      "Elyria",
+      "Emerald",
+      "Eryndor",
+      "Ethereal",
+      "Frost Ward",
+      "Golden Plains",
+      "Guardian",
+      "Heartwood",
+      "Highforge",
+      "Huma",
+      "Kragnir",
+      "Lythariel",
+      "Moon",
+      "Mystic",
+      "Outcast",
+      "Reluctant",
+      "Sands",
+      "Spire",
+      "Stoic",
+      "Stonevale",
+      "Valor",
+      "Warden",
+      "Wayfarer",
+      "Whisperwind",
+      "Willowhaven",
+      "Windwalk"
+    ],
+    "summary": "Hi , I'm offering full rights to *Eldor's Chronicles*, a LOTR-inspired open-world RPG with balanced spells, epic scenarios, and character designs in a ready 180-page slide deck. Full GDD under NDA. Seeking $200k lump-sum buyout—no royalties needed or partnership to finish an awesome game. Let's discuss? Best, Wael Al Abessi. Echoes of Eldrador Continent : Eldor Realm of Eldrador: A land of contrasting landscapes and ancient mysteries. Region : North The Dragon’s Spine & Spire of Arkon Dragon’s Spine: A rugged mountain range where ancient forests murmur forgotten secrets. Spire of Arkon: Snow-capped peaks that rise above the land, juxtaposing with other harsh landscapes. Inhabitants: Dwarven clans (e.g., those of Kragnir) delve into deep ruins, and remnants of elven realms (like Elyria) hint at old magic and lost civilizations. Arkon Keep Arkon’s Keep High Forge The Stoic Guardian: A warrior or sentinel deeply tied to the region, perhaps tasked with guarding the ancient secrets of the Spire. Their backstory might involve a personal oath or a lost family legacy intertwined with dragon lore. Role: Protector of ancient secrets and the Spire’s legacy. Traits: Disciplined, unwavering, st..."
+  },
+  "assets": [
+    {
+      "path": "(My eyes gleam with a sense of exci.txt",
+      "extension": ".txt",
+      "bytes": 4381,
+      "tags": [
+        "general"
+      ],
+      "type": "document",
+      "summary": "(My eyes gleam with a sense of excitement and anticipation as I rise from my chair, my staff in hand.) Ah, the time has come to embark on this grand adventure! As Eryndor, the Wayfarer, I shall guide you through the realms of Eldrador, sharing my knowledge and expertise to aid you in your journey. With the regions of Eldrador fresh in you...",
+      "terms": [
+        "Dragon",
+        "Dwarven",
+        "Eldrador",
+        "Eryndor",
+        "Ethereal",
+        "Moon",
+        "Sands",
+        "Wayfarer"
+      ]
+    },
+    {
+      "path": "1. Illustration Concepts for the No.txt",
+      "extension": ".txt",
+      "bytes": 3253,
+      "tags": [
+        "general"
+      ],
+      "type": "document",
+      "summary": "1. Illustration Concepts for the North Region A. Geographical & Landscape Elements Dragon’s Spine & Spire of Arkon Illustration Concept: A panoramic view of a jagged, towering mountain range with deep, twisting valleys. The central focus is the Spire of Arkon—a snow-capped, towering peak with icy ridges catching the early light. Clouds sw...",
+      "terms": [
+        "Arkon",
+        "Boulderhelm",
+        "Dragon",
+        "Dwarven",
+        "Highforge",
+        "Spire",
+        "Stonevale"
+      ]
+    },
+    {
+      "path": "Chapter Four The Path to Al'Khutm.txt",
+      "extension": ".txt",
+      "bytes": 3040,
+      "tags": [
+        "story"
+      ],
+      "type": "document",
+      "summary": "Chapter Four: The Path to Al'Khutm The sun beat down upon the dunes with relentless force, turning sand to molten gold beneath our weary steps. The heat shimmered in waves, blurring the line between sky and earth, and shadows danced at the edge of vision—spectral forms summoned by heat and exhaustion. “My young friend,” I murmured, my voi...",
+      "terms": [
+        "Sands"
+      ]
+    },
+    {
+      "path": "Chapter Three Secrets Beneath the S.txt",
+      "extension": ".txt",
+      "bytes": 3392,
+      "tags": [
+        "story"
+      ],
+      "type": "document",
+      "summary": "Chapter Three: Secrets Beneath the Sands (Eryndor's voice resonates, weaving tales that make the desert itself seem to lean in and listen.) As we stepped through the sandstone gates of Qud-Shara, the air thickened with the scent of spices, smoke, and whispered promises. Merchants shouted from colorful stalls adorned with vibrant silks and...",
+      "terms": [
+        "Eldrador",
+        "Eryndor",
+        "Sands"
+      ]
+    },
+    {
+      "path": "Chapter Two Into the Whispering Was.txt",
+      "extension": ".txt",
+      "bytes": 1885,
+      "tags": [
+        "story"
+      ],
+      "type": "document",
+      "summary": "Chapter Two: Into the Whispering Wastes The sun hung low and merciless over the sprawling sands of the Whispering Wastes, casting long shadows that danced like restless spirits. The dunes rolled endlessly, their golden crests shifting with every breath of wind, as if the desert itself were alive—watching, waiting. I tightened the straps o...",
+      "terms": [
+        "Eryndor",
+        "Sands"
+      ]
+    },
+    {
+      "path": "character presentation.mp4",
+      "extension": ".mp4",
+      "bytes": 52253426,
+      "tags": [
+        "general"
+      ],
+      "type": "video"
+    },
+    {
+      "path": "DEV_NOTES.md",
+      "extension": ".md",
+      "bytes": 3482,
+      "tags": [
+        "general"
+      ],
+      "type": "document",
+      "summary": "# Eldor's Chronicles / Echoes of Eldrador - Developer Notes ## Project Audit This folder is currently an asset and story collection, not a complete Unity, Unreal, Godot, or other engine project. - Engine markers found: none. - Unity files found: none (`Assets/`, `ProjectSettings/`, `.unity`, `.cs` were not present). - Unreal files found: ...",
+      "terms": [
+        "Aedrys",
+        "Arkon",
+        "Dragon",
+        "Echo of Elyria",
+        "Eldor",
+        "Eldrador",
+        "Elyria",
+        "Emerald",
+        "Eryndor",
+        "Ethereal",
+        "Frost Ward",
+        "Huma",
+        "Moon",
+        "Oracle",
+        "Sands",
+        "Spire",
+        "Warden",
+        "Wayfarer",
+        "Whisperwind",
+        "Windwalk"
+      ]
+    },
+    {
+      "path": "Elder Mage/Elder_Mage_with_Staff_0319153901_texture_fbx.zip",
+      "extension": ".zip",
+      "bytes": 7824318,
+      "tags": [
+        "general"
+      ],
+      "type": "model_archive",
+      "entries": [
+        "Elder_Mage_with_Staff_0319153901_texture_fbx/Elder_Mage_with_Staff_0319153901_texture.fbx",
+        "Elder_Mage_with_Staff_0319153901_texture_fbx/Elder_Mage_with_Staff_0319153901_texture.png"
+      ],
+      "entryCount": 2,
+      "containsTextures": true,
+      "containsFbx": true,
+      "containsObj": false
+    },
+    {
+      "path": "Elder of the Sands/artbreeder-image-2025-03-18T19_54_18.123Z.jpeg",
+      "extension": ".jpeg",
+      "bytes": 203418,
+      "tags": [
+        "elder_sands"
+      ],
+      "type": "image",
+      "width": 1024,
+      "height": 1024,
+      "avgColor": "#957e67"
+    },
+    {
+      "path": "Elder of the Sands/artbreeder-image-2025-03-18T19_56_01.702Z.jpeg",
+      "extension": ".jpeg",
+      "bytes": 216306,
+      "tags": [
+        "elder_sands"
+      ],
+      "type": "image",
+      "width": 1024,
+      "height": 1024,
+      "avgColor": "#927c65"
+    },
+    {
+      "path": "Elder of the Sands/artbreeder-image-2025-03-18T19_56_30.158Z.jpeg",
+      "extension": ".jpeg",
+      "bytes": 216306,
+      "tags": [
+        "elder_sands"
+      ],
+      "type": "image",
+      "width": 1024,
+      "height": 1024,
+      "avgColor": "#927c65"
+    },
+    {
+      "path": "Elder of the Sands/artbreeder-image-2025-03-18T19_57_55.379Z.jpeg",
+      "extension": ".jpeg",
+      "bytes": 206498,
+      "tags": [
+        "elder_sands"
+      ],
+      "type": "image",
+      "width": 1024,
+      "height": 1024,
+      "avgColor": "#977e67"
+    },
+    {
+      "path": "Elder of the Sands/Elder_of_the_Sands_0319121124_generate.fbx",
+      "extension": ".fbx",
+      "bytes": 2310988,
+      "tags": [
+        "elder_sands"
+      ],
+      "type": "model",
+      "format": "fbx",
+      "binary": true,
+      "header": "4b617964617261204642582042696e6172792020001a00e8"
+    },
+    {
+      "path": "Elder of the Sands/Elder_of_the_Sands_0319122040_generate.fbx",
+      "extension": ".fbx",
+      "bytes": 2310988,
+      "tags": [
+        "elder_sands"
+      ],
+      "type": "model",
+      "format": "fbx",
+      "binary": true,
+      "header": "4b617964617261204642582042696e6172792020001a00e8"
+    },
+    {
+      "path": "Elder of the Sands/Elder_of_the_Sands_0319123146_texture_fbx.zip",
+      "extension": ".zip",
+      "bytes": 9123966,
+      "tags": [
+        "elder_sands"
+      ],
+      "type": "model_archive",
+      "entries": [
+        "Elder_of_the_Sands_0319123146_texture_fbx/Elder_of_the_Sands_0319123146_texture.fbx",
+        "Elder_of_the_Sands_0319123146_texture_fbx/Elder_of_the_Sands_0319123146_texture.png"
+      ],
+      "entryCount": 2,
+      "containsTextures": true,
+      "containsFbx": true,
+      "containsObj": false
+    },
+    {
+      "path": "Elder of the Sands/none_0319121754_fbx.zip",
+      "extension": ".zip",
+      "bytes": 2867446,
+      "tags": [
+        "elder_sands"
+      ],
+      "type": "model_archive",
+      "entries": [
+        "none_0319121754_fbx/none_0319121754.fbx",
+        "none_0319121754_fbx/none_0319121754.png"
+      ],
+      "entryCount": 2,
+      "containsTextures": true,
+      "containsFbx": true,
+      "containsObj": false
+    },
+    {
+      "path": "ElradorsQuestDemo/assets/asset-manifest.json",
+      "extension": ".json",
+      "bytes": 906,
+      "tags": [
+        "general"
+      ],
+      "type": "data"
+    },
+    {
+      "path": "ElradorsQuestDemo/DECK_ANALYSIS.md",
+      "extension": ".md",
+      "bytes": 4056,
+      "tags": [
+        "general"
+      ],
+      "type": "document",
+      "summary": "# Eldor's Chronicles / Echoes of Eldrador - Deck Analysis Source analyzed: `C:\\Users\\waelk\\Downloads\\Eldor's Chronicles (1).pdf` ## Naming Decision The pitch deck uses `Eidryss` for the protagonist. Per project direction, the demo renames the hero to `Aedrys` everywhere in UI, dialogue, quest text, and code-facing lore. ## Lore - Eldor is...",
+      "terms": [
+        "Aedrys",
+        "Althaeon",
+        "Arkon",
+        "Aurora Shard",
+        "Cinderheart",
+        "Dragon",
+        "Dwarven",
+        "Echo of Elyria",
+        "Eidryss",
+        "El'goroth",
+        "Eldor",
+        "Eldrador",
+        "Elyria",
+        "Emerald",
+        "Eryndor",
+        "Ethereal",
+        "Frost Ward",
+        "Guardian",
+        "Heartwood",
+        "Highforge",
+        "Huma",
+        "Lythariel",
+        "Spire",
+        "Warden",
+        "Wayfarer",
+        "Whisperwind",
+        "Willowhaven",
+        "Windwalk"
+      ]
+    },
+    {
+      "path": "ElradorsQuestDemo/index.html",
+      "extension": ".html",
+      "bytes": 3864,
+      "tags": [
+        "general"
+      ],
+      "type": "other"
+    },
+    {
+      "path": "ElradorsQuestDemo/launch_demo.ps1",
+      "extension": ".ps1",
+      "bytes": 2032,
+      "tags": [
+        "general"
+      ],
+      "type": "other"
+    },
+    {
+      "path": "ElradorsQuestDemo/src/game.js",
+      "extension": ".js",
+      "bytes": 67447,
+      "tags": [
+        "general"
+      ],
+      "type": "other"
+    },
+    {
+      "path": "ElradorsQuestDemo/src/styles.css",
+      "extension": ".css",
+      "bytes": 8498,
+      "tags": [
+        "general"
+      ],
+      "type": "other"
+    },
+    {
+      "path": "Huma/Ethereal_Warden_0319151800_texture_fbx.zip",
+      "extension": ".zip",
+      "bytes": 11233471,
+      "tags": [
+        "guardian"
+      ],
+      "type": "model_archive",
+      "entries": [
+        "Ethereal_Warden_0319151800_texture_fbx/Ethereal_Warden_0319151800_texture.fbx",
+        "Ethereal_Warden_0319151800_texture_fbx/Ethereal_Warden_0319151800_texture.png"
+      ],
+      "entryCount": 2,
+      "containsTextures": true,
+      "containsFbx": true,
+      "containsObj": false
+    },
+    {
+      "path": "Huma/Warrio of the highla/Animation_Left_Slash_withSkin.fbx",
+      "extension": ".fbx",
+      "bytes": 8911356,
+      "tags": [
+        "general"
+      ],
+      "type": "model",
+      "format": "fbx",
+      "binary": true,
+      "header": "4b617964617261204642582042696e6172792020001a00e8"
+    },
+    {
+      "path": "Huma/Warrio of the highla/Warrior_of_the_Highla_0319152553_texture_fbx.zip",
+      "extension": ".zip",
+      "bytes": 10866388,
+      "tags": [
+        "enemy"
+      ],
+      "type": "model_archive",
+      "entries": [
+        "Warrior_of_the_Highla_0319152553_texture_fbx/Warrior_of_the_Highla_0319152553_texture.fbx",
+        "Warrior_of_the_Highla_0319152553_texture_fbx/Warrior_of_the_Highla_0319152553_texture.png"
+      ],
+      "entryCount": 2,
+      "containsTextures": true,
+      "containsFbx": true,
+      "containsObj": false
+    },
+    {
+      "path": "In the ancient and whispering realm.txt",
+      "extension": ".txt",
+      "bytes": 11980,
+      "tags": [
+        "general"
+      ],
+      "type": "document",
+      "summary": "In the ancient and whispering realms of Eldrador, a land steeped in eldritch wonder and age-old enchantments, the threads of legend weave through earth and sky. The world, divided by the hands of creation into four great dominions—the luminous West, the enigmatic East, the solemn North, and the wild, shape-shifting South—shelters ancient ...",
+      "terms": [
+        "Dragon",
+        "Dwarven",
+        "Eldrador",
+        "Elyria",
+        "Emerald",
+        "Eryndor",
+        "Ethereal",
+        "Moon",
+        "Mystic",
+        "Sands",
+        "Spire",
+        "Wayfarer"
+      ]
+    },
+    {
+      "path": "Integration of All Project Elements.txt",
+      "extension": ".txt",
+      "bytes": 3874,
+      "tags": [
+        "general"
+      ],
+      "type": "document",
+      "summary": "Integration of All Project Elements Characters & Dialogues: Eidryss: Player avatar—his growth from novice to hero is mirrored by new skills unlocked after each major milestone (e.g., Frost Ward, Windwalk, Whisperwind, Cinderheart Amulet). Eryndor: Mentor NPC—provides guidance, essential lore, and occasional in-combat support (e.g., assist...",
+      "terms": [
+        "Althaeon",
+        "Arkon",
+        "Aurora Shard",
+        "Boulderhelm",
+        "Cinderheart",
+        "Dragon",
+        "Dwarven",
+        "Echo of Elyria",
+        "Eidryss",
+        "Elyria",
+        "Emerald",
+        "Eryndor",
+        "Ethereal",
+        "Frost Ward",
+        "Golden Plains",
+        "Guardian",
+        "Heartwood",
+        "Highforge",
+        "Huma",
+        "Lythariel",
+        "Mystic",
+        "Spire",
+        "Stonevale",
+        "Whisperwind",
+        "Willowhaven",
+        "Windwalk"
+      ]
+    },
+    {
+      "path": "Map Legend.txt",
+      "extension": ".txt",
+      "bytes": 426,
+      "tags": [
+        "map"
+      ],
+      "type": "document",
+      "summary": "Map Legend: Spire of Arkon: Central, highest point represented at the top. Arkon Keep: Fortress located on the slope near the Spire. Dragon’s Spine: The continuous, jagged line representing the mountain range. Highforge, Stonevale, Boulderhelm: Marked settlement locations with symbols indicating dwarven strongholds or villages. Ancient Fo...",
+      "terms": [
+        "Arkon",
+        "Boulderhelm",
+        "Dragon",
+        "Dwarven",
+        "Highforge",
+        "Spire",
+        "Stonevale"
+      ]
+    },
+    {
+      "path": "North Region/Ancient Forests & Glacial Features/338b7749-8530-4ac1-8416-a938b57e981a.jpg",
+      "extension": ".jpg",
+      "bytes": 4963876,
+      "tags": [
+        "dragon_spine"
+      ],
+      "type": "image",
+      "width": 2560,
+      "height": 2560,
+      "avgColor": "#405e57"
+    },
+    {
+      "path": "North Region/Ancient Forests & Glacial Features/artbreeder-image-2025-03-18T20_04_00.694Z.jpeg",
+      "extension": ".jpeg",
+      "bytes": 229945,
+      "tags": [
+        "dragon_spine"
+      ],
+      "type": "image",
+      "width": 1024,
+      "height": 1024,
+      "avgColor": "#4d573e"
+    },
+    {
+      "path": "North Region/Arkon Keep/3b293754-5148-49e2-928e-e2cdd74f5254.jpg",
+      "extension": ".jpg",
+      "bytes": 3197566,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "type": "image",
+      "width": 2560,
+      "height": 2560,
+      "avgColor": "#6f7c80"
+    },
+    {
+      "path": "North Region/Arkon Keep/Arkon_s_keep_0319161816_texture_fbx.zip",
+      "extension": ".zip",
+      "bytes": 11607166,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "type": "model_archive",
+      "entries": [
+        "Arkon_s_keep_0319161816_texture_fbx/Arkon_s_keep_0319161816_texture.fbx",
+        "Arkon_s_keep_0319161816_texture_fbx/Arkon_s_keep_0319161816_texture.png"
+      ],
+      "entryCount": 2,
+      "containsTextures": true,
+      "containsFbx": true,
+      "containsObj": false
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Akon Army/artbreeder-image-2025-03-18T20_12_53.077Z.jpeg",
+      "extension": ".jpeg",
+      "bytes": 242473,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "enemy"
+      ],
+      "type": "image",
+      "width": 1024,
+      "height": 1024,
+      "avgColor": "#63605d"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Akon Army/artbreeder-image-2025-03-18T20_13_16.448Z.jpeg",
+      "extension": ".jpeg",
+      "bytes": 199803,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "enemy"
+      ],
+      "type": "image",
+      "width": 1024,
+      "height": 1024,
+      "avgColor": "#504e4e"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Akon Army/artbreeder-image-2025-03-18T20_14_17.053Z.jpeg",
+      "extension": ".jpeg",
+      "bytes": 184488,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "enemy"
+      ],
+      "type": "image",
+      "width": 1024,
+      "height": 1024,
+      "avgColor": "#4d4a49"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Akon Army/artbreeder-image-2025-03-18T20_14_55.204Z.jpeg",
+      "extension": ".jpeg",
+      "bytes": 222612,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "enemy"
+      ],
+      "type": "image",
+      "width": 1024,
+      "height": 1024,
+      "avgColor": "#4a4747"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Akon Army/artbreeder-image-2025-03-18T20_22_06.436Z.jpeg",
+      "extension": ".jpeg",
+      "bytes": 192194,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "enemy"
+      ],
+      "type": "image",
+      "width": 1024,
+      "height": 1024,
+      "avgColor": "#365155"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Akon Army/artbreeder-image-2025-03-18T20_28_55.966Z.jpeg",
+      "extension": ".jpeg",
+      "bytes": 235622,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "enemy"
+      ],
+      "type": "image",
+      "width": 1024,
+      "height": 1024,
+      "avgColor": "#85847f"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Akon Army/artbreeder-image-2025-03-18T20_34_31.300Z.jpeg",
+      "extension": ".jpeg",
+      "bytes": 203574,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "enemy"
+      ],
+      "type": "image",
+      "width": 1024,
+      "height": 1024,
+      "avgColor": "#8b8a86"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Akon Army/artbreeder-image-2025-03-18T20_36_46.018Z.jpeg",
+      "extension": ".jpeg",
+      "bytes": 205090,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "enemy"
+      ],
+      "type": "image",
+      "width": 1024,
+      "height": 1024,
+      "avgColor": "#908d89"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Dark lord/Dragons_Guardian_0319115715_texture_fbx.zip",
+      "extension": ".zip",
+      "bytes": 9911375,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian",
+        "enemy"
+      ],
+      "type": "model_archive",
+      "entries": [
+        "Dragons_Guardian_0319115715_texture_fbx/Dragons_Guardian_0319115715_texture.fbx",
+        "Dragons_Guardian_0319115715_texture_fbx/Dragons_Guardian_0319115715_texture.png"
+      ],
+      "entryCount": 2,
+      "containsTextures": true,
+      "containsFbx": true,
+      "containsObj": false
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Dark lord/Dragons_Guardian_0319120144_texture_fbx.zip",
+      "extension": ".zip",
+      "bytes": 10252525,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian",
+        "enemy"
+      ],
+      "type": "model_archive",
+      "entries": [
+        "Dragons_Guardian_0319120144_texture_fbx/Dragons_Guardian_0319120144_texture.fbx",
+        "Dragons_Guardian_0319120144_texture_fbx/Dragons_Guardian_0319120144_texture.png"
+      ],
+      "entryCount": 2,
+      "containsTextures": true,
+      "containsFbx": true,
+      "containsObj": false
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Iron Sentinel/Iron_Sentinel_0317141931_generate.fbx",
+      "extension": ".fbx",
+      "bytes": 37216,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "type": "model",
+      "format": "fbx",
+      "binary": true,
+      "header": "4b617964617261204642582042696e6172792020001a0020"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Iron Sentinel/Iron_Sentinel_0317141931_generate.json",
+      "extension": ".json",
+      "bytes": 783,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "type": "data"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Iron Sentinel/Iron_Sentinel_0319113507_texture_fbx.zip",
+      "extension": ".zip",
+      "bytes": 8688305,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "type": "model_archive",
+      "entries": [
+        "Iron_Sentinel_0319113507_texture_fbx/Iron_Sentinel_0319113507_texture.fbx",
+        "Iron_Sentinel_0319113507_texture_fbx/Iron_Sentinel_0319113507_texture.png"
+      ],
+      "entryCount": 2,
+      "containsTextures": true,
+      "containsFbx": true,
+      "containsObj": false
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Stoic Guardian/0c499e8a-cd67-48dd-968b-16e5bee26bd9.jpg",
+      "extension": ".jpg",
+      "bytes": 444417,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "type": "image",
+      "width": 640,
+      "height": 640,
+      "avgColor": "#515047"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Stoic Guardian/371d912f-afd7-466f-9d31-223148c75549.jpg",
+      "extension": ".jpg",
+      "bytes": 2534056,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "type": "image",
+      "width": 2560,
+      "height": 2560,
+      "avgColor": "#626260"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Stoic Guardian/654945f9-8ad2-44b2-a185-fb479a4ce886.jpg",
+      "extension": ".jpg",
+      "bytes": 2903302,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "type": "image",
+      "width": 2560,
+      "height": 2560,
+      "avgColor": "#605f5a"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Stoic Guardian/93a7996e-a595-45f5-9589-840adf7c1eb5.png",
+      "extension": ".png",
+      "bytes": 3175137,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "type": "image",
+      "width": 2000,
+      "height": 2000,
+      "avgColor": "#242221"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Stoic Guardian/9663da31-75c0-4fdf-82fc-c86f7ea8eb54.jpg",
+      "extension": ".jpg",
+      "bytes": 2138926,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "type": "image",
+      "width": 2560,
+      "height": 2560,
+      "avgColor": "#2f2d2c"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Stoic Guardian/_the_Stoic_Guardian_u_0317145353_stylize_fbx.zip",
+      "extension": ".zip",
+      "bytes": 27503156,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "type": "model_archive",
+      "entries": [
+        "_the_Stoic_Guardian_u_0317145353_stylize_fbx/_the_Stoic_Guardian_u_0317145353_stylize.fbx",
+        "_the_Stoic_Guardian_u_0317145353_stylize_fbx/_the_Stoic_Guardian_u_0317145353_stylize.png",
+        "_the_Stoic_Guardian_u_0317145353_stylize_fbx/_the_Stoic_Guardian_u_0317145353_stylize_albedo.jpg",
+        "_the_Stoic_Guardian_u_0317145353_stylize_fbx/_the_Stoic_Guardian_u_0317145353_stylize_height.jpg",
+        "_the_Stoic_Guardian_u_0317145353_stylize_fbx/_the_Stoic_Guardian_u_0317145353_stylize_metallic.jpg",
+        "_the_Stoic_Guardian_u_0317145353_stylize_fbx/_the_Stoic_Guardian_u_0317145353_stylize_normal.jpg",
+        "_the_Stoic_Guardian_u_0317145353_stylize_fbx/_the_Stoic_Guardian_u_0317145353_stylize_roughness.jpg",
+        "_the_Stoic_Guardian_u_0317231815_texture_fbx.zip"
+      ],
+      "entryCount": 8,
+      "containsTextures": true,
+      "containsFbx": true,
+      "containsObj": false
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Stoic Guardian/artbreeder-image-2025-03-18T20_04_46.836Z.jpeg",
+      "extension": ".jpeg",
+      "bytes": 287449,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "type": "image",
+      "width": 1024,
+      "height": 1024,
+      "avgColor": "#47423d"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Stoic Guardian/artbreeder-image-2025-03-18T20_55_03.816Z.jpeg",
+      "extension": ".jpeg",
+      "bytes": 220052,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "type": "image",
+      "width": 1024,
+      "height": 1024,
+      "avgColor": "#8e8984"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Stoic Guardian/artbreeder-image-2025-03-18T20_55_59.797Z.jpeg",
+      "extension": ".jpeg",
+      "bytes": 210071,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "type": "image",
+      "width": 1024,
+      "height": 1024,
+      "avgColor": "#8d8884"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Stoic Guardian/c5034adf-8a3d-41ce-90cc-80b4ae58b5b4.jpg",
+      "extension": ".jpg",
+      "bytes": 1786776,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "type": "image",
+      "width": 2048,
+      "height": 2048,
+      "avgColor": "#444340"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Stoic Guardian/d9ef7dfa-30a7-4cf0-a2bb-e3c1d88ec135.jpg",
+      "extension": ".jpg",
+      "bytes": 1786776,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "type": "image",
+      "width": 2048,
+      "height": 2048,
+      "avgColor": "#444340"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Stoic Guardian/Guardian.txt",
+      "extension": ".txt",
+      "bytes": 236,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "type": "document",
+      "summary": "The Stoic Guardian: A warrior or sentinel deeply tied to the region, perhaps tasked with guarding the ancient secrets of the Spire. Their backstory might involve a personal oath or a lost family legacy intertwined with dragon lore.",
+      "terms": [
+        "Dragon",
+        "Guardian",
+        "Spire",
+        "Stoic"
+      ]
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/The Antagonistic Force.txt",
+      "extension": ".txt",
+      "bytes": 220,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "type": "document",
+      "summary": "A character (or group) representing an external threat or an internal corruption. This antagonist might seek to exploit the region’s ancient power, challenging the status quo and forcing other characters into conflict.",
+      "terms": []
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/The Cunning Outcast.txt",
+      "extension": ".txt",
+      "bytes": 0,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "type": "document",
+      "summary": "",
+      "terms": []
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/The Mystic Sage.txt",
+      "extension": ".txt",
+      "bytes": 248,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "type": "document",
+      "summary": "The Mystic Sage: A character versed in the ancient traditions and mystical arts, acting as both mentor and lore-keeper. They could be a retired warrior turned spiritual guide or a scholar who delves into the ancient texts preserved near the Spire.",
+      "terms": [
+        "Mystic",
+        "Spire"
+      ]
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/The Reluctant Hero.txt",
+      "extension": ".txt",
+      "bytes": 214,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "type": "document",
+      "summary": "A younger character emerging from humble origins within the mountains. They might be discovered as having a hidden connection to the dragons or the region's mystical energies, prompting a journey of self-discovery.",
+      "terms": [
+        "Dragon",
+        "Mystic"
+      ]
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Valor Knights/0525bdcc-efd0-4381-b3a3-689b4cb3bb7a.jpg",
+      "extension": ".jpg",
+      "bytes": 2728449,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "type": "image",
+      "width": 2560,
+      "height": 2560,
+      "avgColor": "#615e5a"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Valor Knights/056efad7-5b95-4e0d-b4e2-36e5b6252bef.png",
+      "extension": ".png",
+      "bytes": 3740295,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "type": "image",
+      "width": 2000,
+      "height": 2000,
+      "avgColor": "#1d1916"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Valor Knights/339a006d-6650-4744-ae13-ad99a84bf484.jpg",
+      "extension": ".jpg",
+      "bytes": 2088867,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "type": "image",
+      "width": 2560,
+      "height": 2560,
+      "avgColor": "#292623"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Valor Knights/667254a4-fdfd-412c-bfd6-208a67e662f6.jpg",
+      "extension": ".jpg",
+      "bytes": 4952456,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "type": "image",
+      "width": 3200,
+      "height": 3200,
+      "avgColor": "#575754"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Valor Knights/Knight_of_Valor_0317142431_texture_fbx.zip",
+      "extension": ".zip",
+      "bytes": 10838227,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "type": "model_archive",
+      "entries": [
+        "Knight_of_Valor_0317142431_texture_fbx/Knight_of_Valor_0317142431_texture.fbx",
+        "Knight_of_Valor_0317142431_texture_fbx/Knight_of_Valor_0317142431_texture.png"
+      ],
+      "entryCount": 2,
+      "containsTextures": true,
+      "containsFbx": true,
+      "containsObj": false
+    },
+    {
+      "path": "North Region/Dragon’s Spine & Spire of Arkon/b8fde192-9c03-4703-8794-af909da639a1.jpg",
+      "extension": ".jpg",
+      "bytes": 3000396,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "type": "image",
+      "width": 2560,
+      "height": 2560,
+      "avgColor": "#6c8ea5"
+    },
+    {
+      "path": "North Region/Dragon’s Spine & Spire of Arkon/df805894-7070-4400-8c46-7686ecf11b2b.jpg",
+      "extension": ".jpg",
+      "bytes": 2653392,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "type": "image",
+      "width": 2560,
+      "height": 2560,
+      "avgColor": "#58788d"
+    },
+    {
+      "path": "North Region/Dragon’s Spine & Spire of Arkon/Ethereal_Warden_0319162622_texture_obj.zip",
+      "extension": ".zip",
+      "bytes": 7286262,
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "type": "model_archive",
+      "entries": [
+        "Ethereal_Warden_0319162622_texture_obj/Ethereal_Warden_0319162622_texture.obj",
+        "Ethereal_Warden_0319162622_texture_obj/Ethereal_Warden_0319162622_texture.png"
+      ],
+      "entryCount": 2,
+      "containsTextures": true,
+      "containsFbx": false,
+      "containsObj": true
+    },
+    {
+      "path": "North Region/Elder_Mage_with_Staff_0318190000_generate.fbx",
+      "extension": ".fbx",
+      "bytes": 2548428,
+      "tags": [
+        "dragon_spine"
+      ],
+      "type": "model",
+      "format": "fbx",
+      "binary": true,
+      "header": "4b617964617261204642582042696e6172792020001a00e8"
+    },
+    {
+      "path": "North Region/Map/10d4091b-1294-4468-9f0e-db9d9da5a594.jpg",
+      "extension": ".jpg",
+      "bytes": 5356881,
+      "tags": [
+        "dragon_spine",
+        "map"
+      ],
+      "type": "image",
+      "width": 2560,
+      "height": 2560,
+      "avgColor": "#b8a47f"
+    },
+    {
+      "path": "North Region/Map/25136d47-2425-4c77-852a-5a3818245728.jpg",
+      "extension": ".jpg",
+      "bytes": 5356881,
+      "tags": [
+        "dragon_spine",
+        "map"
+      ],
+      "type": "image",
+      "width": 2560,
+      "height": 2560,
+      "avgColor": "#b8a47f"
+    },
+    {
+      "path": "North Region/Map/260fa265-3923-4852-bf28-895d7b15e4c2.jpg",
+      "extension": ".jpg",
+      "bytes": 5356881,
+      "tags": [
+        "dragon_spine",
+        "map"
+      ],
+      "type": "image",
+      "width": 2560,
+      "height": 2560,
+      "avgColor": "#b8a47f"
+    },
+    {
+      "path": "North Region/Rock Formations & Mineral Veins/bcf34b8a-11d2-47fc-a129-5ab6c81bd204.jpg",
+      "extension": ".jpg",
+      "bytes": 3253322,
+      "tags": [
+        "dragon_spine"
+      ],
+      "type": "image",
+      "width": 2560,
+      "height": 2560,
+      "avgColor": "#605d53"
+    },
+    {
+      "path": "North Region/Settlements & Population/Dwarven and Nomadic Inhabitants/3198800a-c2c3-4e29-8e0e-86a6cfe68936.jpg",
+      "extension": ".jpg",
+      "bytes": 2630253,
+      "tags": [
+        "dragon_spine",
+        "dwarven"
+      ],
+      "type": "image",
+      "width": 2560,
+      "height": 2560,
+      "avgColor": "#665d4f"
+    },
+    {
+      "path": "North Region/Settlements & Population/Highforge, Stonevale, and Boulderhelm/BoulderHelm/07dff3f4-3206-4069-b6a2-891877a395cf.jpg",
+      "extension": ".jpg",
+      "bytes": 2704099,
+      "tags": [
+        "dragon_spine",
+        "dwarven"
+      ],
+      "type": "image",
+      "width": 2560,
+      "height": 2560,
+      "avgColor": "#5f7a7b"
+    },
+    {
+      "path": "North Region/Settlements & Population/Highforge, Stonevale, and Boulderhelm/BoulderHelm/8d6f6aad-6482-4d92-8ee1-d59bc109decc.jpg",
+      "extension": ".jpg",
+      "bytes": 3544397,
+      "tags": [
+        "dragon_spine",
+        "dwarven"
+      ],
+      "type": "image",
+      "width": 2560,
+      "height": 2560,
+      "avgColor": "#6e746b"
+    },
+    {
+      "path": "North Region/Settlements & Population/Highforge, Stonevale, and Boulderhelm/Highforge/78496fd9-12a4-4b9e-860b-bc79bd947898.jpg",
+      "extension": ".jpg",
+      "bytes": 3348822,
+      "tags": [
+        "dragon_spine",
+        "dwarven"
+      ],
+      "type": "image",
+      "width": 2560,
+      "height": 2560,
+      "avgColor": "#555649"
+    },
+    {
+      "path": "North Region/Settlements & Population/Highforge, Stonevale, and Boulderhelm/Highforge/cef8d18a-7758-4101-bfb0-e4d959070b82.jpg",
+      "extension": ".jpg",
+      "bytes": 3803936,
+      "tags": [
+        "dragon_spine",
+        "dwarven"
+      ],
+      "type": "image",
+      "width": 2560,
+      "height": 2560,
+      "avgColor": "#556a61"
+    },
+    {
+      "path": "North Region/Settlements & Population/Highforge, Stonevale, and Boulderhelm/Highforge/eb821cc7-9692-4463-9295-f76beb32f3b1.jpg",
+      "extension": ".jpg",
+      "bytes": 3729965,
+      "tags": [
+        "dragon_spine",
+        "dwarven"
+      ],
+      "type": "image",
+      "width": 2560,
+      "height": 2560,
+      "avgColor": "#717e78"
+    },
+    {
+      "path": "North Region/Settlements & Population/Highforge, Stonevale, and Boulderhelm/Highforge/Highforge_0319204444_texture_fbx.zip",
+      "extension": ".zip",
+      "bytes": 13886434,
+      "tags": [
+        "dragon_spine",
+        "dwarven"
+      ],
+      "type": "model_archive",
+      "entries": [
+        "Highforge_0319204444_texture_fbx/Highforge_0319204444_texture.fbx",
+        "Highforge_0319204444_texture_fbx/Highforge_0319204444_texture.png"
+      ],
+      "entryCount": 2,
+      "containsTextures": true,
+      "containsFbx": true,
+      "containsObj": false
+    },
+    {
+      "path": "North Region/Settlements & Population/Highforge, Stonevale, and Boulderhelm/Highforge/Highforge_0319204458_texture.blend",
+      "extension": ".blend",
+      "bytes": 13467836,
+      "tags": [
+        "dragon_spine",
+        "dwarven"
+      ],
+      "type": "blend_model"
+    },
+    {
+      "path": "North Region/Settlements & Population/Highforge, Stonevale, and Boulderhelm/Stonevale/80cdc49f-553b-42a5-a6c9-16a8d2f6adfd.jpg",
+      "extension": ".jpg",
+      "bytes": 3150041,
+      "tags": [
+        "dragon_spine",
+        "dwarven"
+      ],
+      "type": "image",
+      "width": 2560,
+      "height": 2560,
+      "avgColor": "#666456"
+    },
+    {
+      "path": "North Region/Settlements & Population/Highforge, Stonevale, and Boulderhelm/Stonevale/ec89abb0-2571-43d5-8563-b8c8eef449ce.jpg",
+      "extension": ".jpg",
+      "bytes": 3715147,
+      "tags": [
+        "dragon_spine",
+        "dwarven"
+      ],
+      "type": "image",
+      "width": 2560,
+      "height": 2560,
+      "avgColor": "#6c6e5e"
+    },
+    {
+      "path": "North Region/The silent grove/2e631cf2-9e5e-4862-badb-4fdce2516174.png",
+      "extension": ".png",
+      "bytes": 2209717,
+      "tags": [
+        "dragon_spine"
+      ],
+      "type": "image",
+      "width": 2000,
+      "height": 2000,
+      "avgColor": "#0f1a1b"
+    },
+    {
+      "path": "North Region/The silent grove/7b698020-643c-426a-bb9c-9cb7700cfa93.jpg",
+      "extension": ".jpg",
+      "bytes": 3646629,
+      "tags": [
+        "dragon_spine"
+      ],
+      "type": "image",
+      "width": 2560,
+      "height": 2560,
+      "avgColor": "#2e504a"
+    },
+    {
+      "path": "snips/arkon's keep.png",
+      "extension": ".png",
+      "bytes": 359240,
+      "tags": [
+        "arkon_keep"
+      ],
+      "type": "image",
+      "width": 589,
+      "height": 449,
+      "avgColor": "#4d483a"
+    },
+    {
+      "path": "snips/Capture d’écran 2026-02-22 135118.png",
+      "extension": ".png",
+      "bytes": 116489,
+      "tags": [
+        "general"
+      ],
+      "type": "image",
+      "width": 286,
+      "height": 404,
+      "avgColor": "#464342"
+    },
+    {
+      "path": "snips/Capture d’écran 2026-02-22 135605.png",
+      "extension": ".png",
+      "bytes": 237911,
+      "tags": [
+        "general"
+      ],
+      "type": "image",
+      "width": 558,
+      "height": 452,
+      "avgColor": "#45413f"
+    },
+    {
+      "path": "snips/Capture d’écran 2026-02-22 135623.png",
+      "extension": ".png",
+      "bytes": 171278,
+      "tags": [
+        "general"
+      ],
+      "type": "image",
+      "width": 481,
+      "height": 445,
+      "avgColor": "#3b3837"
+    },
+    {
+      "path": "snips/Dragon's Guardian.png",
+      "extension": ".png",
+      "bytes": 241332,
+      "tags": [
+        "dragon_spine",
+        "guardian"
+      ],
+      "type": "image",
+      "width": 366,
+      "height": 456,
+      "avgColor": "#3e3a37"
+    },
+    {
+      "path": "snips/Elder of the sand.png",
+      "extension": ".png",
+      "bytes": 172689,
+      "tags": [
+        "general"
+      ],
+      "type": "image",
+      "width": 263,
+      "height": 516,
+      "avgColor": "#453d35"
+    },
+    {
+      "path": "snips/Elder of the sand1.png",
+      "extension": ".png",
+      "bytes": 169171,
+      "tags": [
+        "general"
+      ],
+      "type": "image",
+      "width": 285,
+      "height": 523,
+      "avgColor": "#3d3833"
+    },
+    {
+      "path": "snips/Elder of the sand2.png",
+      "extension": ".png",
+      "bytes": 187851,
+      "tags": [
+        "general"
+      ],
+      "type": "image",
+      "width": 313,
+      "height": 550,
+      "avgColor": "#433b33"
+    },
+    {
+      "path": "snips/Emerald Guardian.png",
+      "extension": ".png",
+      "bytes": 230679,
+      "tags": [
+        "emerald_dominion",
+        "guardian"
+      ],
+      "type": "image",
+      "width": 474,
+      "height": 388,
+      "avgColor": "#272e2b"
+    },
+    {
+      "path": "snips/Enregistrement 2026-02-22 135523.mp4",
+      "extension": ".mp4",
+      "bytes": 2657346,
+      "tags": [
+        "general"
+      ],
+      "type": "video"
+    },
+    {
+      "path": "snips/Ethereal warden.png",
+      "extension": ".png",
+      "bytes": 194690,
+      "tags": [
+        "guardian"
+      ],
+      "type": "image",
+      "width": 314,
+      "height": 503,
+      "avgColor": "#3c352e"
+    },
+    {
+      "path": "snips/Ethereal warden1.png",
+      "extension": ".png",
+      "bytes": 185375,
+      "tags": [
+        "guardian"
+      ],
+      "type": "image",
+      "width": 293,
+      "height": 532,
+      "avgColor": "#3f362f"
+    },
+    {
+      "path": "snips/highforge.png",
+      "extension": ".png",
+      "bytes": 342855,
+      "tags": [
+        "dwarven"
+      ],
+      "type": "image",
+      "width": 521,
+      "height": 469,
+      "avgColor": "#3f342b"
+    },
+    {
+      "path": "snips/Iron Sentinels.png",
+      "extension": ".png",
+      "bytes": 297561,
+      "tags": [
+        "guardian"
+      ],
+      "type": "image",
+      "width": 523,
+      "height": 419,
+      "avgColor": "#3e3c3b"
+    },
+    {
+      "path": "snips/Iron Sentinels2.png",
+      "extension": ".png",
+      "bytes": 244711,
+      "tags": [
+        "guardian"
+      ],
+      "type": "image",
+      "width": 472,
+      "height": 402,
+      "avgColor": "#3b3a3a"
+    },
+    {
+      "path": "snips/Knight of Valor.png",
+      "extension": ".png",
+      "bytes": 84193,
+      "tags": [
+        "general"
+      ],
+      "type": "image",
+      "width": 151,
+      "height": 352,
+      "avgColor": "#3e3a37"
+    },
+    {
+      "path": "snips/Monnlight Enigma.png",
+      "extension": ".png",
+      "bytes": 218970,
+      "tags": [
+        "general"
+      ],
+      "type": "image",
+      "width": 324,
+      "height": 515,
+      "avgColor": "#304c58"
+    },
+    {
+      "path": "snips/Screenshot 2025-06-16 150150.png",
+      "extension": ".png",
+      "bytes": 292461,
+      "tags": [
+        "general"
+      ],
+      "type": "image",
+      "width": 365,
+      "height": 508,
+      "avgColor": "#55514c"
+    },
+    {
+      "path": "Storyboard Overview.txt",
+      "extension": ".txt",
+      "bytes": 23455,
+      "tags": [
+        "story"
+      ],
+      "type": "document",
+      "summary": "Storyboard Overview Below is a scene‐by‐scene breakdown (the “storyboard”) for a pitch to side studios. It includes every major element (characters, region details, lore, dialogues, and quest hooks) that has been created and shared in our project archives. Use this as the foundation for an initial pitch; subsequent steps (detailed level d...",
+      "terms": [
+        "Althaeon",
+        "Arkon",
+        "Aurora Shard",
+        "Cinderheart",
+        "Dragon",
+        "Dwarven",
+        "Echo of Elyria",
+        "Eidryss",
+        "Eldrador",
+        "Elyria",
+        "Emerald",
+        "Eryndor",
+        "Ethereal",
+        "Frost Ward",
+        "Golden Plains",
+        "Guardian",
+        "Heartwood",
+        "Highforge",
+        "Lythariel",
+        "Mystic",
+        "Spire",
+        "Valor",
+        "Wayfarer",
+        "Whisperwind",
+        "Willowhaven",
+        "Windwalk"
+      ]
+    },
+    {
+      "path": "The Oracle of the Lost Moon/Animation_Walking_frame_rate_60.fbm/texture_0.png",
+      "extension": ".png",
+      "bytes": 3132560,
+      "tags": [
+        "wayfarer"
+      ],
+      "type": "image",
+      "width": 2048,
+      "height": 2048,
+      "avgColor": "#5c858e"
+    },
+    {
+      "path": "The Oracle of the Lost Moon/Animation_Walking_frame_rate_60.fbx",
+      "extension": ".fbx",
+      "bytes": 32452940,
+      "tags": [
+        "wayfarer"
+      ],
+      "type": "model",
+      "format": "fbx",
+      "binary": true,
+      "header": "4b617964617261204642582042696e6172792020001a00e8"
+    },
+    {
+      "path": "The wayfarer/431cc5b4-54bf-429b-978a-072d27b4f620.png",
+      "extension": ".png",
+      "bytes": 1739111,
+      "tags": [
+        "wayfarer"
+      ],
+      "type": "image",
+      "width": 2000,
+      "height": 2000,
+      "avgColor": "#0f1010"
+    },
+    {
+      "path": "The wayfarer/78a6ade2-8c54-4ff8-967a-c85f21950076.jpg",
+      "extension": ".jpg",
+      "bytes": 2843024,
+      "tags": [
+        "wayfarer"
+      ],
+      "type": "image",
+      "width": 3200,
+      "height": 3200,
+      "avgColor": "#7a8281"
+    },
+    {
+      "path": "The wayfarer/Animation_Walking_withSkin.fbx",
+      "extension": ".fbx",
+      "bytes": 10027372,
+      "tags": [
+        "wayfarer"
+      ],
+      "type": "model",
+      "format": "fbx",
+      "binary": true,
+      "header": "4b617964617261204642582042696e6172792020001a00e8"
+    },
+    {
+      "path": "The wayfarer/artbreeder-image-2025-03-18T20_08_13.770Z.jpeg",
+      "extension": ".jpeg",
+      "bytes": 182610,
+      "tags": [
+        "wayfarer"
+      ],
+      "type": "image",
+      "width": 1024,
+      "height": 1024,
+      "avgColor": "#a29f9c"
+    },
+    {
+      "path": "The wayfarer/d39a0ac0-9ca3-46d2-a3b3-b25edf2812d8.png",
+      "extension": ".png",
+      "bytes": 2291174,
+      "tags": [
+        "wayfarer"
+      ],
+      "type": "image",
+      "width": 2000,
+      "height": 2000,
+      "avgColor": "#202323"
+    }
+  ],
+  "implementationMap": [
+    {
+      "path": "(My eyes gleam with a sense of exci.txt",
+      "type": "document",
+      "tags": [
+        "general"
+      ],
+      "use": "Lore, dialogue, quest, region, or character writing source"
+    },
+    {
+      "path": "1. Illustration Concepts for the No.txt",
+      "type": "document",
+      "tags": [
+        "general"
+      ],
+      "use": "Lore, dialogue, quest, region, or character writing source"
+    },
+    {
+      "path": "Chapter Four The Path to Al'Khutm.txt",
+      "type": "document",
+      "tags": [
+        "story"
+      ],
+      "use": "Lore, dialogue, quest, region, or character writing source"
+    },
+    {
+      "path": "Chapter Three Secrets Beneath the S.txt",
+      "type": "document",
+      "tags": [
+        "story"
+      ],
+      "use": "Lore, dialogue, quest, region, or character writing source"
+    },
+    {
+      "path": "Chapter Two Into the Whispering Was.txt",
+      "type": "document",
+      "tags": [
+        "story"
+      ],
+      "use": "Lore, dialogue, quest, region, or character writing source"
+    },
+    {
+      "path": "character presentation.mp4",
+      "type": "video",
+      "tags": [
+        "general"
+      ],
+      "use": "Character presentation / motion / cinematic style reference"
+    },
+    {
+      "path": "DEV_NOTES.md",
+      "type": "document",
+      "tags": [
+        "general"
+      ],
+      "use": "Lore, dialogue, quest, region, or character writing source"
+    },
+    {
+      "path": "Elder Mage/Elder_Mage_with_Staff_0319153901_texture_fbx.zip",
+      "type": "model_archive",
+      "tags": [
+        "general"
+      ],
+      "use": "Character/prop model source for future engine import and current procedural proxy"
+    },
+    {
+      "path": "Elder of the Sands/artbreeder-image-2025-03-18T19_54_18.123Z.jpeg",
+      "type": "image",
+      "tags": [
+        "elder_sands"
+      ],
+      "use": "Future desert elder NPC and southern expansion mood"
+    },
+    {
+      "path": "Elder of the Sands/artbreeder-image-2025-03-18T19_56_01.702Z.jpeg",
+      "type": "image",
+      "tags": [
+        "elder_sands"
+      ],
+      "use": "Future desert elder NPC and southern expansion mood"
+    },
+    {
+      "path": "Elder of the Sands/artbreeder-image-2025-03-18T19_56_30.158Z.jpeg",
+      "type": "image",
+      "tags": [
+        "elder_sands"
+      ],
+      "use": "Future desert elder NPC and southern expansion mood"
+    },
+    {
+      "path": "Elder of the Sands/artbreeder-image-2025-03-18T19_57_55.379Z.jpeg",
+      "type": "image",
+      "tags": [
+        "elder_sands"
+      ],
+      "use": "Future desert elder NPC and southern expansion mood"
+    },
+    {
+      "path": "Elder of the Sands/Elder_of_the_Sands_0319121124_generate.fbx",
+      "type": "model",
+      "tags": [
+        "elder_sands"
+      ],
+      "use": "Elder NPC / desert expansion model reference"
+    },
+    {
+      "path": "Elder of the Sands/Elder_of_the_Sands_0319122040_generate.fbx",
+      "type": "model",
+      "tags": [
+        "elder_sands"
+      ],
+      "use": "Elder NPC / desert expansion model reference"
+    },
+    {
+      "path": "Elder of the Sands/Elder_of_the_Sands_0319123146_texture_fbx.zip",
+      "type": "model_archive",
+      "tags": [
+        "elder_sands"
+      ],
+      "use": "Elder NPC / desert expansion model reference"
+    },
+    {
+      "path": "Elder of the Sands/none_0319121754_fbx.zip",
+      "type": "model_archive",
+      "tags": [
+        "elder_sands"
+      ],
+      "use": "Elder NPC / desert expansion model reference"
+    },
+    {
+      "path": "ElradorsQuestDemo/assets/asset-manifest.json",
+      "type": "data",
+      "tags": [
+        "general"
+      ],
+      "use": "Support/source asset"
+    },
+    {
+      "path": "ElradorsQuestDemo/DECK_ANALYSIS.md",
+      "type": "document",
+      "tags": [
+        "general"
+      ],
+      "use": "Lore, dialogue, quest, region, or character writing source"
+    },
+    {
+      "path": "ElradorsQuestDemo/index.html",
+      "type": "other",
+      "tags": [
+        "general"
+      ],
+      "use": "Support/source asset"
+    },
+    {
+      "path": "ElradorsQuestDemo/launch_demo.ps1",
+      "type": "other",
+      "tags": [
+        "general"
+      ],
+      "use": "Support/source asset"
+    },
+    {
+      "path": "ElradorsQuestDemo/src/game.js",
+      "type": "other",
+      "tags": [
+        "general"
+      ],
+      "use": "Support/source asset"
+    },
+    {
+      "path": "ElradorsQuestDemo/src/styles.css",
+      "type": "other",
+      "tags": [
+        "general"
+      ],
+      "use": "Support/source asset"
+    },
+    {
+      "path": "Huma/Ethereal_Warden_0319151800_texture_fbx.zip",
+      "type": "model_archive",
+      "tags": [
+        "guardian"
+      ],
+      "use": "Guardian/Warden/enemy/boss model reference"
+    },
+    {
+      "path": "Huma/Warrio of the highla/Animation_Left_Slash_withSkin.fbx",
+      "type": "model",
+      "tags": [
+        "general"
+      ],
+      "use": "Character/prop model source for future engine import and current procedural proxy"
+    },
+    {
+      "path": "Huma/Warrio of the highla/Warrior_of_the_Highla_0319152553_texture_fbx.zip",
+      "type": "model_archive",
+      "tags": [
+        "enemy"
+      ],
+      "use": "Character/prop model source for future engine import and current procedural proxy"
+    },
+    {
+      "path": "In the ancient and whispering realm.txt",
+      "type": "document",
+      "tags": [
+        "general"
+      ],
+      "use": "Lore, dialogue, quest, region, or character writing source"
+    },
+    {
+      "path": "Integration of All Project Elements.txt",
+      "type": "document",
+      "tags": [
+        "general"
+      ],
+      "use": "Lore, dialogue, quest, region, or character writing source"
+    },
+    {
+      "path": "Map Legend.txt",
+      "type": "document",
+      "tags": [
+        "map"
+      ],
+      "use": "Lore, dialogue, quest, region, or character writing source"
+    },
+    {
+      "path": "North Region/Ancient Forests & Glacial Features/338b7749-8530-4ac1-8416-a938b57e981a.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine"
+      ],
+      "use": "Environmental mood, texture palette, or codex vision reference"
+    },
+    {
+      "path": "North Region/Ancient Forests & Glacial Features/artbreeder-image-2025-03-18T20_04_00.694Z.jpeg",
+      "type": "image",
+      "tags": [
+        "dragon_spine"
+      ],
+      "use": "Environmental mood, texture palette, or codex vision reference"
+    },
+    {
+      "path": "North Region/Arkon Keep/3b293754-5148-49e2-928e-e2cdd74f5254.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "North Region/Arkon Keep/Arkon_s_keep_0319161816_texture_fbx.zip",
+      "type": "model_archive",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "use": "Arkon/Dwarven/ruin prop model reference"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Akon Army/artbreeder-image-2025-03-18T20_12_53.077Z.jpeg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "enemy"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Akon Army/artbreeder-image-2025-03-18T20_13_16.448Z.jpeg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "enemy"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Akon Army/artbreeder-image-2025-03-18T20_14_17.053Z.jpeg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "enemy"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Akon Army/artbreeder-image-2025-03-18T20_14_55.204Z.jpeg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "enemy"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Akon Army/artbreeder-image-2025-03-18T20_22_06.436Z.jpeg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "enemy"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Akon Army/artbreeder-image-2025-03-18T20_28_55.966Z.jpeg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "enemy"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Akon Army/artbreeder-image-2025-03-18T20_34_31.300Z.jpeg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "enemy"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Akon Army/artbreeder-image-2025-03-18T20_36_46.018Z.jpeg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "enemy"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Dark lord/Dragons_Guardian_0319115715_texture_fbx.zip",
+      "type": "model_archive",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian",
+        "enemy"
+      ],
+      "use": "Guardian/Warden/enemy/boss model reference"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Dark lord/Dragons_Guardian_0319120144_texture_fbx.zip",
+      "type": "model_archive",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian",
+        "enemy"
+      ],
+      "use": "Guardian/Warden/enemy/boss model reference"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Iron Sentinel/Iron_Sentinel_0317141931_generate.fbx",
+      "type": "model",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "use": "Guardian/Warden/enemy/boss model reference"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Iron Sentinel/Iron_Sentinel_0317141931_generate.json",
+      "type": "data",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "use": "Support/source asset"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Iron Sentinel/Iron_Sentinel_0319113507_texture_fbx.zip",
+      "type": "model_archive",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "use": "Guardian/Warden/enemy/boss model reference"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Stoic Guardian/0c499e8a-cd67-48dd-968b-16e5bee26bd9.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Stoic Guardian/371d912f-afd7-466f-9d31-223148c75549.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Stoic Guardian/654945f9-8ad2-44b2-a185-fb479a4ce886.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Stoic Guardian/93a7996e-a595-45f5-9589-840adf7c1eb5.png",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Stoic Guardian/9663da31-75c0-4fdf-82fc-c86f7ea8eb54.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Stoic Guardian/_the_Stoic_Guardian_u_0317145353_stylize_fbx.zip",
+      "type": "model_archive",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "use": "Guardian/Warden/enemy/boss model reference"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Stoic Guardian/artbreeder-image-2025-03-18T20_04_46.836Z.jpeg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Stoic Guardian/artbreeder-image-2025-03-18T20_55_03.816Z.jpeg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Stoic Guardian/artbreeder-image-2025-03-18T20_55_59.797Z.jpeg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Stoic Guardian/c5034adf-8a3d-41ce-90cc-80b4ae58b5b4.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Stoic Guardian/d9ef7dfa-30a7-4cf0-a2bb-e3c1d88ec135.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Stoic Guardian/Guardian.txt",
+      "type": "document",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "use": "Lore, dialogue, quest, region, or character writing source"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/The Antagonistic Force.txt",
+      "type": "document",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "use": "Lore, dialogue, quest, region, or character writing source"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/The Cunning Outcast.txt",
+      "type": "document",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "use": "Lore, dialogue, quest, region, or character writing source"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/The Mystic Sage.txt",
+      "type": "document",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "use": "Lore, dialogue, quest, region, or character writing source"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/The Reluctant Hero.txt",
+      "type": "document",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "use": "Lore, dialogue, quest, region, or character writing source"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Valor Knights/0525bdcc-efd0-4381-b3a3-689b4cb3bb7a.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Valor Knights/056efad7-5b95-4e0d-b4e2-36e5b6252bef.png",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Valor Knights/339a006d-6650-4744-ae13-ad99a84bf484.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Valor Knights/667254a4-fdfd-412c-bfd6-208a67e662f6.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "North Region/Arkon Keep/Characters/Valor Knights/Knight_of_Valor_0317142431_texture_fbx.zip",
+      "type": "model_archive",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "use": "Arkon/Dwarven/ruin prop model reference"
+    },
+    {
+      "path": "North Region/Dragon’s Spine & Spire of Arkon/b8fde192-9c03-4703-8794-af909da639a1.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "North Region/Dragon’s Spine & Spire of Arkon/df805894-7070-4400-8c46-7686ecf11b2b.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "North Region/Dragon’s Spine & Spire of Arkon/Ethereal_Warden_0319162622_texture_obj.zip",
+      "type": "model_archive",
+      "tags": [
+        "dragon_spine",
+        "arkon_keep",
+        "guardian"
+      ],
+      "use": "Guardian/Warden/enemy/boss model reference"
+    },
+    {
+      "path": "North Region/Elder_Mage_with_Staff_0318190000_generate.fbx",
+      "type": "model",
+      "tags": [
+        "dragon_spine"
+      ],
+      "use": "Character/prop model source for future engine import and current procedural proxy"
+    },
+    {
+      "path": "North Region/Map/10d4091b-1294-4468-9f0e-db9d9da5a594.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "map"
+      ],
+      "use": "World map / navigation codex / distant landmark planning reference"
+    },
+    {
+      "path": "North Region/Map/25136d47-2425-4c77-852a-5a3818245728.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "map"
+      ],
+      "use": "World map / navigation codex / distant landmark planning reference"
+    },
+    {
+      "path": "North Region/Map/260fa265-3923-4852-bf28-895d7b15e4c2.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "map"
+      ],
+      "use": "World map / navigation codex / distant landmark planning reference"
+    },
+    {
+      "path": "North Region/Rock Formations & Mineral Veins/bcf34b8a-11d2-47fc-a129-5ab6c81bd204.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine"
+      ],
+      "use": "Environmental mood, texture palette, or codex vision reference"
+    },
+    {
+      "path": "North Region/Settlements & Population/Dwarven and Nomadic Inhabitants/3198800a-c2c3-4e29-8e0e-86a6cfe68936.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "dwarven"
+      ],
+      "use": "Dwarven settlement silhouettes, Highforge/Stonevale/Boulderhelm props"
+    },
+    {
+      "path": "North Region/Settlements & Population/Highforge, Stonevale, and Boulderhelm/BoulderHelm/07dff3f4-3206-4069-b6a2-891877a395cf.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "dwarven"
+      ],
+      "use": "Dwarven settlement silhouettes, Highforge/Stonevale/Boulderhelm props"
+    },
+    {
+      "path": "North Region/Settlements & Population/Highforge, Stonevale, and Boulderhelm/BoulderHelm/8d6f6aad-6482-4d92-8ee1-d59bc109decc.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "dwarven"
+      ],
+      "use": "Dwarven settlement silhouettes, Highforge/Stonevale/Boulderhelm props"
+    },
+    {
+      "path": "North Region/Settlements & Population/Highforge, Stonevale, and Boulderhelm/Highforge/78496fd9-12a4-4b9e-860b-bc79bd947898.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "dwarven"
+      ],
+      "use": "Dwarven settlement silhouettes, Highforge/Stonevale/Boulderhelm props"
+    },
+    {
+      "path": "North Region/Settlements & Population/Highforge, Stonevale, and Boulderhelm/Highforge/cef8d18a-7758-4101-bfb0-e4d959070b82.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "dwarven"
+      ],
+      "use": "Dwarven settlement silhouettes, Highforge/Stonevale/Boulderhelm props"
+    },
+    {
+      "path": "North Region/Settlements & Population/Highforge, Stonevale, and Boulderhelm/Highforge/eb821cc7-9692-4463-9295-f76beb32f3b1.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "dwarven"
+      ],
+      "use": "Dwarven settlement silhouettes, Highforge/Stonevale/Boulderhelm props"
+    },
+    {
+      "path": "North Region/Settlements & Population/Highforge, Stonevale, and Boulderhelm/Highforge/Highforge_0319204444_texture_fbx.zip",
+      "type": "model_archive",
+      "tags": [
+        "dragon_spine",
+        "dwarven"
+      ],
+      "use": "Character/prop model source for future engine import and current procedural proxy"
+    },
+    {
+      "path": "North Region/Settlements & Population/Highforge, Stonevale, and Boulderhelm/Highforge/Highforge_0319204458_texture.blend",
+      "type": "blend_model",
+      "tags": [
+        "dragon_spine",
+        "dwarven"
+      ],
+      "use": "Character/prop model source for future engine import and current procedural proxy"
+    },
+    {
+      "path": "North Region/Settlements & Population/Highforge, Stonevale, and Boulderhelm/Stonevale/80cdc49f-553b-42a5-a6c9-16a8d2f6adfd.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "dwarven"
+      ],
+      "use": "Dwarven settlement silhouettes, Highforge/Stonevale/Boulderhelm props"
+    },
+    {
+      "path": "North Region/Settlements & Population/Highforge, Stonevale, and Boulderhelm/Stonevale/ec89abb0-2571-43d5-8563-b8c8eef449ce.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "dwarven"
+      ],
+      "use": "Dwarven settlement silhouettes, Highforge/Stonevale/Boulderhelm props"
+    },
+    {
+      "path": "North Region/The silent grove/2e631cf2-9e5e-4862-badb-4fdce2516174.png",
+      "type": "image",
+      "tags": [
+        "dragon_spine"
+      ],
+      "use": "Environmental mood, texture palette, or codex vision reference"
+    },
+    {
+      "path": "North Region/The silent grove/7b698020-643c-426a-bb9c-9cb7700cfa93.jpg",
+      "type": "image",
+      "tags": [
+        "dragon_spine"
+      ],
+      "use": "Environmental mood, texture palette, or codex vision reference"
+    },
+    {
+      "path": "snips/arkon's keep.png",
+      "type": "image",
+      "tags": [
+        "arkon_keep"
+      ],
+      "use": "Arkon Keep ruin architecture, cold stone palette, rune-door design"
+    },
+    {
+      "path": "snips/Capture d’écran 2026-02-22 135118.png",
+      "type": "image",
+      "tags": [
+        "general"
+      ],
+      "use": "Environmental mood, texture palette, or codex vision reference"
+    },
+    {
+      "path": "snips/Capture d’écran 2026-02-22 135605.png",
+      "type": "image",
+      "tags": [
+        "general"
+      ],
+      "use": "Environmental mood, texture palette, or codex vision reference"
+    },
+    {
+      "path": "snips/Capture d’écran 2026-02-22 135623.png",
+      "type": "image",
+      "tags": [
+        "general"
+      ],
+      "use": "Environmental mood, texture palette, or codex vision reference"
+    },
+    {
+      "path": "snips/Dragon's Guardian.png",
+      "type": "image",
+      "tags": [
+        "dragon_spine",
+        "guardian"
+      ],
+      "use": "Emerald grove crystals, boss/guardian visual language, emissive palette"
+    },
+    {
+      "path": "snips/Elder of the sand.png",
+      "type": "image",
+      "tags": [
+        "general"
+      ],
+      "use": "Environmental mood, texture palette, or codex vision reference"
+    },
+    {
+      "path": "snips/Elder of the sand1.png",
+      "type": "image",
+      "tags": [
+        "general"
+      ],
+      "use": "Environmental mood, texture palette, or codex vision reference"
+    },
+    {
+      "path": "snips/Elder of the sand2.png",
+      "type": "image",
+      "tags": [
+        "general"
+      ],
+      "use": "Environmental mood, texture palette, or codex vision reference"
+    },
+    {
+      "path": "snips/Emerald Guardian.png",
+      "type": "image",
+      "tags": [
+        "emerald_dominion",
+        "guardian"
+      ],
+      "use": "Emerald grove crystals, boss/guardian visual language, emissive palette"
+    },
+    {
+      "path": "snips/Enregistrement 2026-02-22 135523.mp4",
+      "type": "video",
+      "tags": [
+        "general"
+      ],
+      "use": "Character presentation / motion / cinematic style reference"
+    },
+    {
+      "path": "snips/Ethereal warden.png",
+      "type": "image",
+      "tags": [
+        "guardian"
+      ],
+      "use": "Emerald grove crystals, boss/guardian visual language, emissive palette"
+    },
+    {
+      "path": "snips/Ethereal warden1.png",
+      "type": "image",
+      "tags": [
+        "guardian"
+      ],
+      "use": "Emerald grove crystals, boss/guardian visual language, emissive palette"
+    },
+    {
+      "path": "snips/highforge.png",
+      "type": "image",
+      "tags": [
+        "dwarven"
+      ],
+      "use": "Dwarven settlement silhouettes, Highforge/Stonevale/Boulderhelm props"
+    },
+    {
+      "path": "snips/Iron Sentinels.png",
+      "type": "image",
+      "tags": [
+        "guardian"
+      ],
+      "use": "Emerald grove crystals, boss/guardian visual language, emissive palette"
+    },
+    {
+      "path": "snips/Iron Sentinels2.png",
+      "type": "image",
+      "tags": [
+        "guardian"
+      ],
+      "use": "Emerald grove crystals, boss/guardian visual language, emissive palette"
+    },
+    {
+      "path": "snips/Knight of Valor.png",
+      "type": "image",
+      "tags": [
+        "general"
+      ],
+      "use": "Environmental mood, texture palette, or codex vision reference"
+    },
+    {
+      "path": "snips/Monnlight Enigma.png",
+      "type": "image",
+      "tags": [
+        "general"
+      ],
+      "use": "Environmental mood, texture palette, or codex vision reference"
+    },
+    {
+      "path": "snips/Screenshot 2025-06-16 150150.png",
+      "type": "image",
+      "tags": [
+        "general"
+      ],
+      "use": "Environmental mood, texture palette, or codex vision reference"
+    },
+    {
+      "path": "Storyboard Overview.txt",
+      "type": "document",
+      "tags": [
+        "story"
+      ],
+      "use": "Lore, dialogue, quest, region, or character writing source"
+    },
+    {
+      "path": "The Oracle of the Lost Moon/Animation_Walking_frame_rate_60.fbm/texture_0.png",
+      "type": "image",
+      "tags": [
+        "wayfarer"
+      ],
+      "use": "Eryndor/Wayfarer NPC visual reference and mentor portrait styling"
+    },
+    {
+      "path": "The Oracle of the Lost Moon/Animation_Walking_frame_rate_60.fbx",
+      "type": "model",
+      "tags": [
+        "wayfarer"
+      ],
+      "use": "Eryndor mentor model/animation reference"
+    },
+    {
+      "path": "The wayfarer/431cc5b4-54bf-429b-978a-072d27b4f620.png",
+      "type": "image",
+      "tags": [
+        "wayfarer"
+      ],
+      "use": "Eryndor/Wayfarer NPC visual reference and mentor portrait styling"
+    },
+    {
+      "path": "The wayfarer/78a6ade2-8c54-4ff8-967a-c85f21950076.jpg",
+      "type": "image",
+      "tags": [
+        "wayfarer"
+      ],
+      "use": "Eryndor/Wayfarer NPC visual reference and mentor portrait styling"
+    },
+    {
+      "path": "The wayfarer/Animation_Walking_withSkin.fbx",
+      "type": "model",
+      "tags": [
+        "wayfarer"
+      ],
+      "use": "Eryndor mentor model/animation reference"
+    },
+    {
+      "path": "The wayfarer/artbreeder-image-2025-03-18T20_08_13.770Z.jpeg",
+      "type": "image",
+      "tags": [
+        "wayfarer"
+      ],
+      "use": "Eryndor/Wayfarer NPC visual reference and mentor portrait styling"
+    },
+    {
+      "path": "The wayfarer/d39a0ac0-9ca3-46d2-a3b3-b25edf2812d8.png",
+      "type": "image",
+      "tags": [
+        "wayfarer"
+      ],
+      "use": "Eryndor/Wayfarer NPC visual reference and mentor portrait styling"
+    }
+  ]
+}
